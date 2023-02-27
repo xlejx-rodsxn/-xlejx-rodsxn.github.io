@@ -1,4 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "base",
+    "layout",
+    "syntax-highlighting",
+    "bootstrap";
